@@ -1,1 +1,1 @@
-SQL tasks on dataset about Dota 2
+SQL (PostgreSQL, ClickHouse) tasks on dataset about Dota 2
